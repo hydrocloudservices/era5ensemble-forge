@@ -35,7 +35,7 @@ def fetch_era5(date, variables_long_name, download_filename):
                         '25', '26', '27',
                         '28', '29', '30',
                         '31',
-                    ]
+                    ],
                'time': Config.TIMES,
                }
 
